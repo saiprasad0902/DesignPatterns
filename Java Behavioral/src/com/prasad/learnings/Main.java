@@ -1,4 +1,4 @@
-package com.prasad.learnings;
+package src.com.prasad.learnings;
 
 public class Main {
 
